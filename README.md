@@ -7,6 +7,7 @@
  - HTML
  - CSS / SASS
  - Javascript (Sroll Reveal)
+ - Font Awesome ( For the icons)
 
 
 
