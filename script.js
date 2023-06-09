@@ -1,2 +1,4 @@
-window.sr = ScrollReveal({reset:true});
-sr.reveal('.area',{duration:1000});
+document.addEventListener('DOMContentLoaded', (()=>{
+    window.sr = ScrollReveal({reset:false});
+    sr.reveal('.area',{duration:1000});
+}))
